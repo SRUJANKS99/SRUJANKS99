@@ -51,10 +51,11 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
+| [**Portfolio Website**](https://srujan-ks-portfolio.vercel.app/) | HTML, CSS, JS, React, Vercel | Personal responsive developer portfolio website |
 | [**Tourify**](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application) | Android (Java), Firebase, Google Maps API | Real-time tourist spot discovery & booking app with map integration & live data |
 | [**University Resource & Exam Management System**](https://github.com/SRUJANKS99/University-Resource-and-Exam-Management-System) | Java, Spring Boot, MySQL, HTML, CSS, JS | Web portal for managing academic resources, results & exam schedules |
 | [**Android Chat Application**](https://github.com/SRUJANKS99/Android_Chat_Application-main) | Android (Java), Firebase | Real-time chat app with authentication, image upload & notifications |
-| [**Portfolio Website**](https://srujan-ks-portfolio.vercel.app/) | HTML, CSS, JS, React, Vercel | Personal responsive developer portfolio website |
+
 
 ---
 
@@ -67,13 +68,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SRUJANKS99&theme=darkhub" />
-</p>
-
----
 
 ### 🤝 Let's Connect!
 
