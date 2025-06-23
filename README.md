@@ -15,8 +15,7 @@
 
 - 🎓 **BE in Information Science & Engineering** @ GMIT, Davangere (2021–2025)  
 - 👨‍💻 **Full Stack Developer Intern** @ TAP Academy  
-- 🏆 **Java Programmer Intern** @ Edureka Learning Center  
-- 📱 Built [**Tourify**](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application), an Android app for live tourist spot discovery and booking  
+- 🏆 **Java Programmer Intern** @ Edureka Learning Center    
 - 💻 Constantly learning **Spring Boot**, **MERN stack**  
 - ⚡ Fun fact: I debug better with filter coffee ☕  
 
