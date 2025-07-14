@@ -50,7 +50,7 @@
 
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
-| [**Portfolio Website**](https://srujan-ks-portfolio.vercel.app/) | HTML, CSS, JS, React, Vercel | Personal responsive developer portfolio website |
+| [**Portfolio Website**]((https://srujan-ks-portfolio-be4r.vercel.app/)/) | HTML, CSS, JS, React, Vercel | Personal responsive developer portfolio website |
 | [**Tourify**](https://github.com/SRUJANKS99/Real-time-tourist-spot-finder-and-tour-booking-android-application) | Android (Java), Firebase, Google Maps API | Real-time tourist spot discovery & booking app with map integration & live data |
 | [**University Resource & Exam Management System**](https://github.com/SRUJANKS99/University-Resource-and-Exam-Management-System) | Java, Spring Boot, MySQL, HTML, CSS, JS | Web portal for managing academic resources, results & exam schedules |
 | [**Resume Ai**](https://resume-ai-peach.vercel.app/)|HTML, CSS, JS, React, node js,Vercel,OpenAI API |AI-powered web app that helps you generate professional resumes instantly and give results|
